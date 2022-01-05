@@ -4,7 +4,7 @@ pragma solidity 0.8.11;
 
 contract SimpleStorage{
 
-    // This is the way to declare a variable 
+    // This is the way to declare a variable in solidity
     uint x;
 
     // Format of the function is 
